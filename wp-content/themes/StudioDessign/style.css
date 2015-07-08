@@ -1,0 +1,191 @@
+/*
+Theme Name: Studio Dessign
+Theme URI: http://www.dessign.net/studiodessign
+Description: Studio Dessign Theme for WordPress is stylish, customizable, simple, and readable. Perfect for any illustrator or graphic designer. 
+Version: 1.5
+Author: Marios Lublinski
+Author URI: http://www.dessign.net
+Tags: 2 column theme, white, clean
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url('images/body-back.jpg') repeat;
+  font-family: arial, georgia, verdana;
+  font-size: 10px;
+color: #59595B;
+}
+
+#main_container {
+  padding-left: 25px;
+  padding-top: 8px;
+}
+
+a {
+  color: #59595B;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+
+img {
+  border: none;
+}
+
+p {
+  margin: 10px 0;
+}
+
+h3 {
+  font-size: 12px;
+  padding: 10px 0;
+color: #59595B;
+}
+
+h3.dot_bottom {
+  font-size: 12px;
+  padding: 10px 0;
+  border-bottom: 1px dotted #000;
+}
+
+.top_line {
+  background: url('images/topline-image.jpg') repeat-x;
+  height: 12px;
+  width: 100%;
+}
+
+.top_box_logo {
+  width: 160px;
+  float:left;
+}
+
+.bottom {
+  margin-left: 2px;
+}
+
+.top_box {
+  width: 160px;
+  float:left;
+  margin-left: 11px;
+}
+
+.top_box h3 {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  font-size: 11px;
+  background-color: #000;
+  padding: 2px 5px;
+  font-weight: normal;
+color: #59595B;
+}
+
+.top_box h3 a {
+  color: #59595B;
+  text-decoration: none;
+}
+
+.top_box h3 a:hover {
+  text-decoration: line-through;
+
+}
+
+.top_box img {
+  width: 160px;
+  height: 148px;
+  padding-top: 5px;
+  border-top: 1px dotted #000;
+}
+
+.top_box img.logo {
+  border: none;
+  padding-top: 0;
+}
+
+.last {
+  margin-left: 10px;
+}
+
+.bottom_box {
+  width: 160px;
+  float:left;
+  margin-left: 10px;
+}
+
+.box_big {
+  width: 330px;
+  float:left;
+  margin-left: 10px;
+}
+
+.box_big img { width: 330px; height: 431px; }
+
+.box_big a {
+  text-decoration: none;
+}
+
+.box_big a:hover {
+  color: #ccc;
+}
+
+.box_big_single {
+  width: 500px;
+  float:left;
+  margin-left: 10px;
+
+}
+
+.clear {
+  clear: both;
+}
+
+.thick_line {
+  background: url('images/dotted-line-single.jpg') repeat-x;
+  height: 5px;
+  width: 100%;
+}
+
+.divider {
+  background: url('images/dotted-line-single.jpg') repeat-x;
+  height: 5px;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.portfolio {
+  list-style-type: none;
+}
+
+.portfolio li{
+  padding: 2px 0;
+  border-bottom: 1px dotted #000;
+}
+
+.portfolio li:hover {
+  background-color: none;
+}
+
+.portfolio li a {
+  text-decoration: none;
+}
+
+.portfolio li:hover a:hover {
+  text-decoration: line-through;
+}
+
+#footer {
+  width: 835px;
+  background-color: #000;
+  color: #fff;
+  float: left;
+  margin-top: 20px;
+  margin-left: 1px;
+  padding: 3px;
+  text-align: right;
+}

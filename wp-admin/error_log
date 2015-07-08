@@ -1,0 +1,15 @@
+[26-May-2011 19:56:05] PHP Fatal error:  Call to undefined function  hpt_rmdirr() in /home3/erikajoa/public_html/wp-content/plugins/photo-galleria/photo-galleria.php on line 559
+[02-Aug-2011 04:38:11] PHP Fatal error:  Call to undefined function  hpt_rmdirr() in /home3/erikajoa/public_html/wp-content/plugins/photo-galleria/photo-galleria.php on line 560
+[02-Aug-2011 06:10:22] PHP Fatal error:  Call to undefined function  hpt_rmdirr() in /home3/erikajoa/public_html/wp-content/plugins/photo-galleria/photo-galleria.php on line 560
+[02-Aug-2011 06:13:57] PHP Fatal error:  Call to undefined function  hpt_rmdirr() in /home3/erikajoa/public_html/wp-content/plugins/photo-galleria/photo-galleria.php on line 560
+[03-Aug-2011 04:48:59] PHP Fatal error:  Call to undefined function  hpt_rmdirr() in /home3/erikajoa/public_html/wp-content/plugins/photo-galleria/photo-galleria.php on line 560
+[03-Aug-2011 04:51:32] PHP Fatal error:  Call to undefined function  hpt_rmdirr() in /home3/erikajoa/public_html/wp-content/plugins/photo-galleria/photo-galleria.php on line 560
+[05-Aug-2011 02:15:08] WordPress database error Duplicate column name 'sortorder' for query ALTER TABLE wp_cvg_videos ADD `sortorder` BIGINT( 20 ) NOT NULL DEFAULT '0' AFTER `description` made by activate_plugin, do_action, call_user_func_array, CoolVideoGallery->cvg_install, CoolVideoGallery->_cvg_activate
+[05-Aug-2011 23:31:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query select ID from wp_posts where ID= made by require_once, require_once, require_once, do_action, call_user_func_array, WP_ayvpp_list_actions, WP_ayvpp_list_delete
+[22-Feb-2012 06:45:52] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
+[22-Feb-2012 06:47:27] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
+[22-Feb-2012 06:48:07] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
+[22-Feb-2012 06:49:24] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
+[22-Feb-2012 06:59:31] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
+[22-Feb-2012 07:05:29] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
+[22-Feb-2012 07:06:14] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24000 bytes) in /home3/erikajoa/public_html/wp-includes/media.php on line 254
